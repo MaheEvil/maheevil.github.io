@@ -1,4 +1,3 @@
-# Maheesha's github page   
 # Hello! I am Maheesha.   
 I do some coding and messing around ig. Mainly uses Java and trying to learn Kotlin and Rust, sometimes C#. I also do some minecraft modding
 
