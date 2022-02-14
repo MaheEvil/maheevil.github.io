@@ -2,7 +2,6 @@
 I do some coding and messing around ig. Mainly uses Java and trying to learn Kotlin and Rust, sometimes C#. I also do some minecraft modding
 
 ### Links and stuff
-- [My Discord Server](https://discord.gg/R8qGzssTMd)   
 - [Github](https://github.com/MaheEvil)   
 - [Modrinth Profile](https://modrinth.com/user/qxFOUntv)   
 - [CurseForge Profile](https://www.curseforge.com/members/maheevil/projects)   
